@@ -131,3 +131,30 @@ src/main/java/com/cesde/pi
 ├── dto           # Objetos de Transferencia de Datos
 └── exception     # Manejo de Excepciones Globales
 ```
+##  Actividad 1
+
+Esteban Garces Alzate
+- **Enlace de la instancia creada en prima.io**
+
+- **Captura de pantalla de la configuración de la base de datos en prisma.io**
+![img.png](img.png)
+
+- **Captura de pantalla del log de la consolo de Spring boot**
+![img_1.png](img_1.png)
+
+- **Evidencias de las pruebas CRUD**
+- - **POST**
+![img_2.png](img_2.png)
+- - **GET All**
+![img_3.png](img_3.png)
+- - **Get by ID**
+![img_4.png](img_4.png)
+- - **GET BY EMAIL**
+![img_5.png](img_5.png)
+- - **PUT**
+![img_6.png](img_6.png)
+- - **DELETE**
+![img_7.png](img_7.png)
+
+- **Captura de pantalla del resultado de la ejecucion de las pruebas internas del proyecto**
+![img_8.png](img_8.png)
