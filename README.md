@@ -131,10 +131,9 @@ src/main/java/com/cesde/pi
 ├── dto           # Objetos de Transferencia de Datos
 └── exception     # Manejo de Excepciones Globales
 ```
-##  Actividad 1
+##  Actividad 1 - Configuración y Pruebas de Proyecto Spring Boot Esteban Garces Alzate
 
-Esteban Garces Alzate
-- **Enlace de la instancia creada en prima.io**
+
 
 - **Captura de pantalla de la configuración de la base de datos en prisma.io**
 ![img.png](./Captures/img.png)
